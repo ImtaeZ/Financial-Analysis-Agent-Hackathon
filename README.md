@@ -9,6 +9,7 @@
       <h1>Gemini-2.5-Flash</h1>
     </summary>
 </div>
+
 ## Agent Design and Functionality
 This repository contains a financial analysis agent developed to compete in the "financial-analysis-agent" competition on Kaggle. The agent is designed to respond to multiple-choice and open-ended financial questions using a zero-shot approach, powered by Google's Gemini 2.5 Flash model.
 
